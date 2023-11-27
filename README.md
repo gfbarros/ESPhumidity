@@ -3,6 +3,11 @@ Humidity logger for Adafruit ESP module pushing to adafruit.io
 
 I wanted to track humidity data an an aircraft engine connected to an RPX Drybot. Adafruit makes great little ESP modules, and sensors already on breakout boards. I threw some of those together, made some 3d printed cases, pushed the data to adafruit.io, and alas.
 
+Video covering the device and they why:
+https://youtu.be/Sh2ZEOab918?si=JyDbI2tnH-ZApDeS
+![Screenshot 2023-11-27 at 13 46 54](https://github.com/gfbarros/ESPhumidity/assets/6993097/026db253-8dea-41b4-bbce-c33e95fc1b18)
+
+
 Sample logs:
 https://io.adafruit.com/figgyb/dashboards/humidity1
 ![Screenshot 2023-11-27 at 13 32 54](https://github.com/gfbarros/ESPhumidity/assets/6993097/f845a8d5-740f-4b5a-8b0a-56f0605274c7)

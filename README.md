@@ -19,3 +19,4 @@ https://www.printables.com/model/661932-esp-humidity-logger
 - Multiplexer: https://www.adafruit.com/product/5664
 - Sensor: https://www.adafruit.com/product/5776
 - Various lengths of: https://www.adafruit.com/product/4401
+- Random USB cable + charger
